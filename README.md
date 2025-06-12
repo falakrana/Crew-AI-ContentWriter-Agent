@@ -33,7 +33,7 @@ This project utilizes [CrewAI](https://github.com/joaomdmoura/crewai) to build a
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/crewai-research-blogger.git
+git clone https://github.com/yourusername/Crew-AI-ContentWriter-Agent.git
 cd crewai-research-blogger
 ```
 
