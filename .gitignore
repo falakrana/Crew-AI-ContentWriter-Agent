@@ -1,3 +1,9 @@
 /crewgooglegemini/.env
 
 /crewGeminiEnv
+
+/crewgooglegemini/crewGeminiEnv
+
+/crewgooglegemini/crewEnv
+
+/crewgooglegemini/__pycache__

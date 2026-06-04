@@ -12,5 +12,5 @@ crew=Crew(
 
 ## starting the task execution process wiht enhanced feedback
 
-result=crew.kickoff(inputs={'topic':'Disaster after RCB won their maiden IPL trophy.'})
+result=crew.kickoff(inputs={'topic':'What was the case of Nushrat Bharrucha after RCB\'s victory this year?'})
 print(result)
